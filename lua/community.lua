@@ -19,6 +19,7 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.blade" },
   { import = "astrocommunity.pack.cmake" },
-  { import = "astrocommunity.pack.docker" }
+  { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.pack.vue" },
   -- import/override with your plugins folder
 }
